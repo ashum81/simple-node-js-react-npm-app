@@ -7,7 +7,7 @@ pipeline {
   }
 
   environment {
-    HOME = "."
+    HOME="."
   }
 
   stages {
